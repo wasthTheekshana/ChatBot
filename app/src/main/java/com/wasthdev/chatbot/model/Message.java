@@ -1,4 +1,4 @@
-package com.wasthdev.chatbot.model;
+package com.wasthdev.chatbot.Model;
 
 public class Message {
 
