@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">ChatBot</string>
     <string name="user_message">User Message</string>
+    <string name="messge_bot">Messge bot</string>
 </resources>
